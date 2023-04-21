@@ -1,0 +1,24 @@
+body {
+  background: linear-gradient(to bottom, #008080, #00BFFF);
+  /* Change the color codes to your desired colors */
+}
+
+header {
+  background: #fff;
+  /* Add your header styles here */
+}
+
+main {
+  background: #fff;
+  /* Add your main content styles here */
+}
+
+section {
+  background: #fff;
+  /* Add your section styles here */
+}
+
+button {
+  background: #fff;
+  /* Add your button styles here */
+}
